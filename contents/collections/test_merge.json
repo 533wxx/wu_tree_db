@@ -5,7 +5,20 @@
       "id": "n_1",
       "name": "���",
       "gen": 110,
-      "gender": "M"
+      "gender": "M",
+      "children": [
+        {
+          "id": "n_2",
+          "name": "��ε",
+          "gen": 111,
+          "gender": "M",
+          "children": [],
+          "birth": "1920��",
+          "wife": "����"
+        }
+      ],
+      "death": "��������",
+      "note": "���Ը���"
     }
   }
 ]
